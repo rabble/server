@@ -1,3 +1,8 @@
+# video.pio.io
+
+This is an experimental fork of ipfs.pics to build a kind of video hosting app via ipfs. It's mostly just playing with ideas and tech. 
+
+
 # ipfs.pics
 [ipfs.pics](https://ipfs.pics/) is a open-source and distributed image hosting website.
 It aims to be an alternative to non-libre image hosting websites such as imgur, flickr and others.
